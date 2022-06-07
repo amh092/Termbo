@@ -1,0 +1,13 @@
+.statics {
+    height: 400px;
+    width: 550px;
+    border-radius: 12px;
+    background: #FEFEFE;
+    padding: 12px;
+}
+
+.statics h1 {
+    font-weight: normal;
+    text-transform: capitalize;
+    font-size: 1em;
+}

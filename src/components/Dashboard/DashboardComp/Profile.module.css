@@ -1,0 +1,13 @@
+.profile {
+    display: flex;
+    flex-flow: column;
+    height: 883px;
+    width: 300px;
+    background: #FEFEFE;
+    
+    border-radius: 12px;
+}
+
+.profile h1 {
+    
+}

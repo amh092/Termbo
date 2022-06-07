@@ -1,0 +1,10 @@
+.main {
+    background-color: #f4f7fc;
+    height: 981px;
+    width: 1490px;
+    display: flex;
+    position: absolute;
+    top: 10px;
+    left: 286px;
+    border-radius: 12px;
+}

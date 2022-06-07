@@ -1,0 +1,12 @@
+.user {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.user img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}

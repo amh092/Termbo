@@ -1,0 +1,13 @@
+.progress {
+    height: 400px;
+    width: 300px;
+    border-radius: 12px;
+    background: #FEFEFE;
+    padding: .75rem;
+}
+
+.progress h1 {
+    font-weight: normal;
+    text-transform: capitalize;
+    font-size: 1em;
+}

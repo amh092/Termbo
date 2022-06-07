@@ -1,0 +1,27 @@
+.add-task {
+    width: 200px;
+    height: 200px;
+    background: #f2ecfc;
+    text-align: center;
+    border-radius: 20px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    margin-left: 40px;
+    
+}
+
+.add-task p::first-letter{
+
+    text-transform: capitalize;
+}
+button {
+    width: 100px;
+    height: 50px;
+    background: #af91eb;
+    border-radius: 20px;
+    border: none;
+
+}

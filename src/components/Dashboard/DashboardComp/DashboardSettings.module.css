@@ -1,0 +1,10 @@
+.settings-icon {
+    background: #FEFEFE;
+    height: 3.75em;
+    width: 50px;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+    border-radius: .75em;
+}
