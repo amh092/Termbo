@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Trembo/static/css/main.fbbd4712.css",
-    "main.js": "/Trembo/static/js/main.b04fa5e2.js",
+    "main.js": "/Trembo/static/js/main.e03ef0b9.js",
     "static/media/list-6240.svg": "/Trembo/static/media/list-6240.82e7c3a0a0875beaac2947eb76ed191c.svg",
     "static/media/settings-3110.svg": "/Trembo/static/media/settings-3110.05b6c90fde94949632c875770abe8eed.svg",
     "static/media/settings-dashabord.svg": "/Trembo/static/media/settings-dashabord.ebbef08018a05ba217897690290f9ce4.svg",
@@ -10,10 +10,10 @@
     "static/media/home-2490.svg": "/Trembo/static/media/home-2490.36325083196ef0a9f657bca06b7eaf14.svg",
     "index.html": "/Trembo/index.html",
     "main.fbbd4712.css.map": "/Trembo/static/css/main.fbbd4712.css.map",
-    "main.b04fa5e2.js.map": "/Trembo/static/js/main.b04fa5e2.js.map"
+    "main.e03ef0b9.js.map": "/Trembo/static/js/main.e03ef0b9.js.map"
   },
   "entrypoints": [
     "static/css/main.fbbd4712.css",
-    "static/js/main.b04fa5e2.js"
+    "static/js/main.e03ef0b9.js"
   ]
 }
