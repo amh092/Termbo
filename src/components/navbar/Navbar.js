@@ -13,7 +13,7 @@ const Navbar = () => {
         <div className={classes.navbar}>
             <Logo className={classes.logo}/>
             <ul>
-                    <li><NavLink   to='/' 
+                    <li><NavLink   to='/home' 
                     className={
                         (isActive) =>
                         !isActive.isActive ? classes['nav-icon'] : classes['nav-icon-active']

@@ -10,7 +10,7 @@ const Main = () => {
     return (
         <div className={classes.main}>
      <Routes>
-     <Route path='/' element={<Home/>}></Route>
+     <Route path='/home' element={<Home/>}></Route>
      <Route path='/dashboard' element={<Dashboard/>}></Route>
      <Route path='/tasks' element={<Tasks/>}></Route>
      <Route path='/settings' element={<Settings/>}></Route>
